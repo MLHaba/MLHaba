@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michałl Haba
+- 👋 Hi, I’m Michał Haba
 - 📖 I am currently studying Automatics and Robotics at Wroclaw Univerisy of Science and Technology
 
 <!---
