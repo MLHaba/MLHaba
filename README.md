@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Michael Haba
-- 📖 Currently I am a student of Automatics and Robotics at Wroclaw Univerisy of Science and Technology
+- 👋 Hi, I’m Michałl Haba
+- 📖 I am currently studying Automatics and Robotics at Wroclaw Univerisy of Science and Technology
 
 <!---
 MLHaba/MLHaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
